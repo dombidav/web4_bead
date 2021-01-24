@@ -1,0 +1,15 @@
+{
+  "name": "web4_bead_server",
+  "version": "0.0.1",
+  "description": "Test Express Server with MySQL",
+  "main": "main.js",
+  "author": "HL5U4V",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
