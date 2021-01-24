@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Test Express Server with MySQL",
   "main": "main.js",
+  "scripts": {
+    "dev": "npx nodemon src/server.js -w src"
+  },
   "author": "HL5U4V",
   "license": "MIT",
   "dependencies": {
